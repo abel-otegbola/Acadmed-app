@@ -1,0 +1,29 @@
+13th June - 	Initial project setup ✅
+                Smart symptom checker page
+                    - components (
+                        for Abdullahi - topbar, header
+                        for Abel - infoGenerator, sideNav
+                    )
+                    - utils (
+                        for Abdulahi - geminiApi
+                        for Abel - infermedicaApi
+                    )
+                    - pages (
+                        for Abdulahi - dashboard/checkup 
+                        for Abel - dashboard/checkup/symptom-check
+                    )
+                Checkup reminder page
+
+14th June - 	Health and Study planner page
+                Overview page
+
+15th June - 	Other components (popup)
+                Login and register pages
+
+16th June - 	Homepage
+		        About us page
+
+17th June - 	Fine-tuning
+                Code Refactor
+                Video explanation creation
+                PDF of solution creation
