@@ -8,6 +8,7 @@ function App() {
   return (
     <BrowserRouter>
       <Topbar />
+      <hr className='border-b-[#F7F0FB]'/>
       <Routes>
         <Route path={"/"} exact element={<Home />} />
       </Routes>
