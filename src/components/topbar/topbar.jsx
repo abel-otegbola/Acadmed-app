@@ -10,7 +10,6 @@ export default function Topbar() {
                 </ul>
             </nav>
             <img src="/src/assets/profile-pic.png" alt="profile picture" width="42px" height="auto" />
-
         </header>
     )
 } 
